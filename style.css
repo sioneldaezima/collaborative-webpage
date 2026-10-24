@@ -35,6 +35,13 @@ header {
   color: #fff;
 }
 
+header h1 {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  padding: 1.25rem 1.5rem 0;
+  color: #fff;
+}
+
 nav,
 .navbar {
   display: flex;
